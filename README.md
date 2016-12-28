@@ -1,0 +1,2 @@
+# Online-Book-Shopping-Portal-
+Online Book Store Project is a Web Based Online e-book Shopping Project. It is the graphical user interface.  It have a form for user to input query information to search the books from database.  The control function is designed to process the input from the users interface, generate the searching query and then gets data from the database and returns to the users interface.
